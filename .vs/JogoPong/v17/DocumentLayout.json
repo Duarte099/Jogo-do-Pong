@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duarte\\Downloads\\JogoPong\\JogoPong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D536C436-3EFF-4F0E-B2CE-E7F9A1E5141A}|JogoPong\\JogoPong.csproj|c:\\users\\duarte\\downloads\\jogopong\\jogopong\\jogopong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536C436-3EFF-4F0E-B2CE-E7F9A1E5141A}|JogoPong\\JogoPong.csproj|solutionrelative:jogopong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\JogoPong\\JogoPong\\JogoPong\\Program.cs",
+              "RelativeDocumentMoniker": "JogoPong\\Program.cs",
+              "ToolTip": "C:\\Users\\Duarte\\Downloads\\JogoPong\\JogoPong\\JogoPong\\Program.cs",
+              "RelativeToolTip": "JogoPong\\Program.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAA9wCEBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:52:04.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
